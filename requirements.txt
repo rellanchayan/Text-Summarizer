@@ -7,7 +7,7 @@ py7zr
 pandas
 nltk
 tqdm
-pyml
+pyYaml
 matplotlib
 torch
 notebook
