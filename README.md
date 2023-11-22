@@ -14,4 +14,4 @@
 
 ## Create ECR Repo to save docker file
 
-Url : public.ecr.aws/o7q5s4n0/text-s
+Url : 155250369625.dkr.ecr.us-east-2.amazonaws.com/text-s
