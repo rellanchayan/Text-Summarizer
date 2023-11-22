@@ -10,3 +10,8 @@
 6. Update the pipeline
 7. Update main.py file
 8. Update app.py file
+
+
+## Create ECR Repo to save docker file
+
+Url : public.ecr.aws/o7q5s4n0/text-s
