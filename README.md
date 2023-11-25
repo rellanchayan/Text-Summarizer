@@ -93,6 +93,7 @@ Email: krishnaik06@gmail.com
     - Save the URI: 155250369625.dkr.ecr.us-east-2.amazonaws.com/summarizer
 
 
+
 ## 5. Open EC2 and Install docker in EC2 Machine:
 	
 	
